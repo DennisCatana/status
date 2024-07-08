@@ -26,7 +26,7 @@ class _FirstScreenState extends State<FirstScreen> {
       );
     } else {
       setState(() {
-        _errorMessage = 'Usuario no autenticado';
+        _errorMessage = 'Usuario no autenticado xd';
         _showErrorMessage = true; // Muestra el mensaje de error
       });
 
